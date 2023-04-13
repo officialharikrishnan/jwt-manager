@@ -1,2 +1,1 @@
-# jwt-manager
-# jwt-manager
+# jwt-manager-auth-service
